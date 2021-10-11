@@ -1,2 +1,4 @@
 C:\Users\092834\OneDrive - UP Education\Desktop\CS103\gitDemo\Debug\gitDemo.exe
 C:\Users\092834\OneDrive - UP Education\Desktop\CS103\gitDemo\Debug\gitDemo.pdb
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\gitDemo\Debug\gitDemo.exe
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\homeComputer\gitDemo\Debug\gitDemo.pdb
